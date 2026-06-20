@@ -40,8 +40,8 @@ src/main/java/com/worktime/
 
 ```bash
 # Клонувати репозиторій
-git clone https://github.com/Xeone52670v3/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Xeone52670v3/coursework.git
+cd coursework
 
 # Скомпілювати (розроблено на JDK 26, сумісно з 18+)
 find src -name "*.java" > sources.txt
